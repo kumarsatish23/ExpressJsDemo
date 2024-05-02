@@ -1,0 +1,23 @@
+# Ignore node_modules directory
+node_modules
+
+# Ignore .DS_Store files on macOS
+.DS_Store
+
+# Ignore logs and other generated files
+logs/
+*.log
+npm-debug.log*
+
+# Ignore vscode settings
+.vscode/
+
+# Ignore IDE specific files
+.idea/
+
+# Ignore compiled output
+dist/
+
+# Ignore local database files
+*.db
+*.sqlite
